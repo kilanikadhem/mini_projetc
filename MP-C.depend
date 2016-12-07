@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1480766003 source:c:\users\fakher\desktop\mp-c\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"myconio.h"
+	"TP1.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+	"Definev.h"
+	"func.h"
+	"fichier.h"
+
+1480425888 c:\users\fakher\desktop\mp-c\tp1.h
+
+1480361388 c:\users\fakher\desktop\mp-c\definev.h
+
+1480425798 c:\users\fakher\desktop\mp-c\func.h
+
+1135785118 c:\users\fakher\desktop\mp-c\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<myconio.cpp>
+
+1480262479 c:\users\fakher\desktop\mp-c\tp2.h
+
+1480110256 c:\users\fakher\desktop\mp-c\tp3.h
+
+1480262540 c:\users\fakher\desktop\mp-c\fichier.h
+
+1480662468 c:\users\fakher\desktop\mp-c\tp4.h
+
+1480877303 source:c:\users\fakher\desktop\mp-c1\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"myconio.h"
+	"TP1.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+	"Definev.h"
+	"func.h"
+	"fichier.h"
+
+1135785118 c:\users\fakher\desktop\mp-c1\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<myconio.cpp>
+
+1480939562 c:\users\fakher\desktop\mp-c1\tp1.h
+
+1480856545 c:\users\fakher\desktop\mp-c1\tp2.h
+
+1480110256 c:\users\fakher\desktop\mp-c1\tp3.h
+
+1480878939 c:\users\fakher\desktop\mp-c1\tp4.h
+
+1480939740 c:\users\fakher\desktop\mp-c1\definev.h
+
+1480880916 c:\users\fakher\desktop\mp-c1\func.h
+
+1480262540 c:\users\fakher\desktop\mp-c1\fichier.h
+
+1481064074 source:c:\users\kadhem\desktop\mp-c1\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"myconio.h"
+	"TP1.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+	"Definev.h"
+	"func.h"
+	"fichier.h"
+
+1135785118 c:\users\kadhem\desktop\mp-c1\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<myconio.cpp>
+
+1481062124 c:\users\kadhem\desktop\mp-c1\tp1.h
+
+1481061013 c:\users\kadhem\desktop\mp-c1\tp2.h
+
+1481064302 c:\users\kadhem\desktop\mp-c1\tp3.h
+
+1481061620 c:\users\kadhem\desktop\mp-c1\tp4.h
+
+1480946501 c:\users\kadhem\desktop\mp-c1\definev.h
+
+1481056907 c:\users\kadhem\desktop\mp-c1\func.h
+
+1480262542 c:\users\kadhem\desktop\mp-c1\fichier.h
+
+1481101350 source:c:\users\kadhem\desktop\mini_projetc\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"myconio.h"
+	"TP1.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+	"Definev.h"
+	"function.h"
+	"fichier.h"
+
+1135785118 c:\users\kadhem\desktop\mini_projetc\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<myconio.cpp>
+
+1481062124 c:\users\kadhem\desktop\mini_projetc\tp1.h
+
+1481061013 c:\users\kadhem\desktop\mini_projetc\tp2.h
+
+1481100580 c:\users\kadhem\desktop\mini_projetc\tp3.h
+
+1481061620 c:\users\kadhem\desktop\mini_projetc\tp4.h
+
+1480946501 c:\users\kadhem\desktop\mini_projetc\definev.h
+
+1481056907 c:\users\kadhem\desktop\mini_projetc\func.h
+
+1480262542 c:\users\kadhem\desktop\mini_projetc\fichier.h
+
+1481101313 c:\users\kadhem\desktop\mini_projetc\function.h
+
